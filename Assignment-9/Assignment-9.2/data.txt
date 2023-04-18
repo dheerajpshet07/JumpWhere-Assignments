@@ -1,0 +1,13 @@
+hello
+mango
+apple
+mouse
+undo
+redo
+book
+meet
+iris
+tshirt
+pant
+charger
+sting
